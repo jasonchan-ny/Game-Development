@@ -1,0 +1,4 @@
+repository "FinalProject@georgemelek@cloud"
+  path "/"
+    smartbranch "/main"  
+     
